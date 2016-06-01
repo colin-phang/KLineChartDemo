@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="common_white">#FFFFFF</color>
+    <color name="common_black">#000000</color>
+    <color name="common_bg">#eeeeee</color>
+    <color name="common_divider">#303341</color>
+    <color name="common_transparent">#00000000</color>
+
+    <color name="bg_yellow">#FFE100</color>
+    <color name="home_tab_bg">#262733</color>
+    <color name="home_tab_text">#194B70</color>
+    <color name="home_page_bg">#1E1E26</color>
+    <color name="transparent_black">#40000000</color>
+    <color name="transparent_black2">#80000000</color>
+
+    <color name="mine_label_txt">#A7ADBC</color>
+    <color name="dialog_avatar_bg">#262127</color>
+
+    <color name="btn_black_pressed_bg">#2E2C31</color>
+    <color name="edit_text_underline">#2F3241</color>
+    <color name="info_item_subtitle">#5F5D6A</color>
+
+    <color name="info_tab_select">#194B70</color>
+    <!--辅助文字色，用于稍微弱些的文字表现。info_tab_unselect改名为text_grey_light-->
+    <color name="text_grey_light">#A7ADBC</color>
+
+    <color name="text_red">#FC0544</color>
+    <color name="text_green">#51FFB9</color>
+    <color name="text_grey">#5E5E6A</color>
+    <color name="text_blue">#118CDE</color>
+    <color name="text_orange">#FCAE05</color>
+
+    <color name="btn_blue">#118CDE</color>
+    <color name="btn_blue_pressed">#0070BB</color>
+    <color name="btn_grey_ripple">#545359</color>
+
+    <color name="label_etf_bg">#2C2C37</color>
+
+    <color name="ma5">#823E66</color>
+    <color name="ma10">#B99C7A</color>
+    <color name="ma20">#3C7193</color>
+</resources>
